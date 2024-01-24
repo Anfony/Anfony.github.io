@@ -895,6 +895,13 @@ body.open .hamburguer .bar:last-child {
     width: 105%;
 }
 
+.exeption-0 {
+    width: 30% !important;
+}
+.exeption-1 {
+    width: 60% !important;
+}
+
 .prt-desc {
     padding: 1.1rem 1.6rem;
     display: flex;
